@@ -2,23 +2,18 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This past week, I familiarized myself with the repository of the project. I learned about the different components in the project and the tools needed to debug them. For example, I went through using Postman to make API calls. 
+> One such API call had the functionality of getting all the users stored in our database. I made use of the API call and stored the result in the redux state. To do so, I had to create a redux action with a payload containing the result of the api call. I made a reducer to process the action and update the state with the payload.
+> After storing all users in the state, I made use of our card components and mapped a card component for each user. The result was rows of card components representing registered users in the website.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> I plan to fix the 'bulb' images on the user card components. They are meant to represent the average rating of a user on the website but currently they do not work. After I fix this, I may move on to making a api call for 'rating' users.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
+> At the moment there are no technical blockers.
 
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+## Links
 
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> https://github.com/aSehat/TeeTor/pull/48 (pull request)
