@@ -1,3 +1,6 @@
+## Intro
+Name: Covenant Faluyi
+Project: Teetor
 ## Last Week's Accomplishments
 
 
