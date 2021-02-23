@@ -1,6 +1,6 @@
 ## Intro
-Name: Covenant Faluyi
-Project: Teetor
+> Name: Covenant Faluyi
+> Project: Teetor
 ## Last Week's Accomplishments
 
 
